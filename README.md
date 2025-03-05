@@ -70,8 +70,6 @@ The dataset used in this project comes from:
   - Mean Valence Electrons
   - Atomic Entropy & Density
 
-
-
 ## 8. Industry Impact & Future Applications
 ### Why This Research Matters
 - **Superconductors are vital for modern energy & technology:**
@@ -88,9 +86,6 @@ The dataset used in this project comes from:
 - Try XGBoost: Explore boosting algorithms for even better performance.
 - Deploy the Model: Build a Flask API for real-time superconductor prediction.
 - Expand Dataset: Integrate experimental data from real-world superconductors.
-
-## Summary of the Project in One Line
-**“This project applies machine learning to predict superconductor critical temperatures, achieving 91.81% accuracy with Random Forest, accelerating material discovery for energy, healthcare, and computing.”**
 
 ### Final Thoughts
 - This project demonstrates AI in materials science.
